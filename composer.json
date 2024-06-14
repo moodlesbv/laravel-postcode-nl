@@ -11,16 +11,16 @@
     "require": {
         "php": "^7.3|^8.0",
         "ext-json": "*",
-        "guzzlehttp/guzzle": "^7.2",
-        "illuminate/config": "8.*",
-        "illuminate/contracts": "8.*",
-        "illuminate/routing": "8.*",
-        "illuminate/support": "8.*",
-        "illuminate/validation": "8.*"
+        "guzzlehttp/guzzle": "^7.8",
+        "illuminate/config": "11.*",
+        "illuminate/contracts": "11.*",
+        "illuminate/routing": "11.*",
+        "illuminate/support": "11.*",
+        "illuminate/validation": "11.*"
     },
     "require-dev": {
-        "laravel/laravel": "8.*",
-        "phpunit/phpunit": "^8.5.8",
+        "laravel/laravel": "11.*",
+        "phpunit/phpunit": "^11.0.1",
         "roave/security-advisories": "dev-master"
     },
     "autoload": {
